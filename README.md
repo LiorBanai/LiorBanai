@@ -1,6 +1,6 @@
-
+<!--
 [![Analogy Log Viewer](https://github-readme-stats.vercel.app/api/pin/?username=Analogy-LogViewer&repo=Analogy.LogViewer)](https://github.com/Analogy-LogViewer/Analogy.LogViewer)
-
+-->
 [![Lior's github stats](https://github-readme-stats.vercel.app/api?username=LiorBanai&show_icons=true&theme=radical)](https://github.com/LiorBanai/LiorBanai)
 
 
