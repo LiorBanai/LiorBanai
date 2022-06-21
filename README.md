@@ -11,7 +11,7 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LiorBanai&hide_border=true)
 
-Currently working on the following projects:
+My Top Projects:
 | Project   |      Description      |  Repository |
 |----------|:---------------:|------|
 | Analogy Log Viewer | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | [Primary](https://github.com/Analogy-LogViewer/Analogy.LogViewer)
