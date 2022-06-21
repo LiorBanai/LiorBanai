@@ -11,6 +11,13 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LiorBanai&hide_border=true)
 
+Currently working on the following projects:
+| Project   |      Description      |  Repository |
+|----------|:---------------:|------|
+| Analogy Log Viewer | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | [Primary](https://github.com/Analogy-LogViewer/Analogy.LogViewer)
+| HDF5-Sharp | Set of tools that help in reading and writing hdf5 files for .net environments | [Repository](https://github.com/LiorBanai/HDF5-CSharp)
+| PythonNetWrapper | a library for executing pythonnet in C# projects | [Repository](https://github.com/LiorBanai/PythonNetWrapper)
+
 <!--
 **LiorBanai/LiorBanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
