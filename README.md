@@ -18,6 +18,7 @@ My Top Projects:
 |<img src="./Assets/hdf5Wrapper.png" align="right" width="64px" height="64px">| [HDF5-Sharp](https://github.com/LiorBanai/HDF5-CSharp)| Set of tools that help in reading and writing hdf5 files for .net environments | 
 |<img src="./Assets/PythonnetWrapper.png" align="right" width="64px" height="64px">| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
 |<img src="./Assets/GitHubNotifier.png" align="right" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
+|<img src="./Assets/GitHubNotifier.png" align="right" width="64px" height="64px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
 
 <!--
 **LiorBanai/LiorBanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
