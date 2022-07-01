@@ -12,12 +12,12 @@
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LiorBanai&hide_border=true)
 
 My Top Projects:
-| Project   |      Description      |
-|:----------|:---------------|
-| [Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | 
-| [HDF5-Sharp](https://github.com/LiorBanai/HDF5-CSharp)| Set of tools that help in reading and writing hdf5 files for .net environments | 
-| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
-| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
+|| Project   |      Description      |
+|:----------|:----------|:---------------|
+|<img src="./Assets/Analogy.png" align="right" width="64px" height="64px">| [Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | 
+|<img src="./Assets/hdf5Wrapper.png" align="right" width="64px" height="64px">| [HDF5-Sharp](https://github.com/LiorBanai/HDF5-CSharp)| Set of tools that help in reading and writing hdf5 files for .net environments | 
+|<img src="./Assets/PythonnetWrapper.png" align="right" width="64px" height="64px">| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
+|<img src="./Assets/GitHubNotifier.png" align="right" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
 
 <!--
 **LiorBanai/LiorBanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
