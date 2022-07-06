@@ -20,6 +20,12 @@ My Top Projects:
 |<img src="./Assets/GitHubNotifier.png" align="right" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
 |<img src="./Assets/notificationWindow.png" align="right" width="64px" height="64px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
 
+Other projects:
+|| Project   |      Description      |
+|:----------|:----------|:---------------|
+|<img src="./Assets/Analogy.png" align="right" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
+
+
 <!--
 **LiorBanai/LiorBanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
