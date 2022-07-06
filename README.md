@@ -23,7 +23,7 @@ My Top Projects:
 Other projects:
 || Project   |      Description      |
 |:----------|:----------|:---------------|
-|<img src="./Assets/Analogy.png" align="right" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
+|<img src="./Assets/EDF.png" align="right" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
 
 
 <!--
