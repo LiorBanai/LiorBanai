@@ -19,10 +19,6 @@ My Top Projects:
 |<img src="./Assets/PythonnetWrapper.png" align="center" width="64px" height="64px">| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
 |<img src="./Assets/GitHubNotifier.png" align="center" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
 |<img src="./Assets/notificationWindow.png" align="center" width="64px" height="64px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
-
-Other projects:
-|| Project   |      Description      |
-|:----------|:----------|:---------------|
 |<img src="./Assets/EDF.png" align="center" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
 
 
