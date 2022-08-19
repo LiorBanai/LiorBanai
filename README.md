@@ -20,6 +20,7 @@ My Top Projects:
 |<img src="./Assets/GitHubNotifier.png" align="center" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
 |<img src="./Assets/notificationWindow.png" align="center" width="64px" height="64px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
 |<img src="./Assets/EDF.png" align="center" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
+|<img src="./Assets/SPE.png" align="center" width="64px" height="64px">| [SPE](https://github.com/LiorBanai/SPE) | 2005 University 4th Year project | 
 
 
 <!--
