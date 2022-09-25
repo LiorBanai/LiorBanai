@@ -14,15 +14,15 @@
 My Top Projects:
 || Project   |      Description      |
 |:----------|:----------|:---------------|
-|<img src="./Assets/Analogy.png" align="center" width="64px" height="64px">| [Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | 
-|<img src="./Assets/AnalogySerilog.png" align="center" width="64px" height="64px">| [Serilog parsers for Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Serilog) | Serilog parsers for Analogy Log Viewer | 
-|<img src="./Assets/hdf5Wrapper.png" align="center" width="64px" height="64px">| [HDF5-CSharp](https://github.com/LiorBanai/HDF5-CSharp)| Set of tools that help in reading and writing hdf5 files for .net environments | 
-|<img src="./Assets/KUMOAJA.png" align="center" width="64px" height="64px">| [KUMO-AJA-Router](https://github.com/LiorBanai/KUMO-AJA-Router)| C# application for managing KUMO AJA Router mapping | 
-|<img src="./Assets/PythonnetWrapper.png" align="center" width="64px" height="64px">| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
-|<img src="./Assets/GitHubNotifier.png" align="center" width="64px" height="64px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
-|<img src="./Assets/notificationWindow.png" align="center" width="64px" height="64px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
-|<img src="./Assets/EDF.png" align="center" width="64px" height="64px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
-|<img src="./Assets/SPE.png" align="center" width="64px" height="64px">| [SPE](https://github.com/LiorBanai/SPE) | 2005 University 4th Year project | 
+|<img src="./Assets/Analogy.png" align="center" width="155px" height="155px">| [Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others | 
+|<img src="./Assets/AnalogySerilog.png" align="center" width="155px" height="155px">| [Serilog parsers for Analogy Log Viewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer.Serilog) | Serilog parsers for Analogy Log Viewer | 
+|<img src="./Assets/hdf5Wrapper.png" align="center" width="155px" height="155px">| [HDF5-CSharp](https://github.com/LiorBanai/HDF5-CSharp)| Set of tools that help in reading and writing hdf5 files for .net environments | 
+|<img src="./Assets/KUMOAJA.png" align="center" width="155px" height="155px">| [KUMO-AJA-Router](https://github.com/LiorBanai/KUMO-AJA-Router)| C# application for managing KUMO AJA Router mapping | 
+|<img src="./Assets/PythonnetWrapper.png" align="center" width="155px" height="155px">| [PythonNetWrapper](https://github.com/LiorBanai/PythonNetWrapper) | a library for executing pythonnet in C# projects | 
+|<img src="./Assets/GitHubNotifier.png" align="center" width="155px" height="155px">| [Github Notifier](https://github.com/LiorBanai/GitHub-Notifier) | a small program that sits in the tray bar and periodically check repositories for activity |
+|<img src="./Assets/notificationWindow.png" align="center" width="155px" height="155px">| [Popup Notification Windows](https://github.com/LiorBanai/Notification-Popup-Window) | A notification window that appears on the lower right part of the screen |
+|<img src="./Assets/EDF.png" align="center" width="155px" height="155px">| [EDF-CSharp](https://github.com/LiorBanai/EDF) | Library to read and write EDF signal files | 
+|<img src="./Assets/SPE.png" align="center" width="155px" height="155px">| [SPE](https://github.com/LiorBanai/SPE) | 2005 University 4th Year project | 
 
 
 <!--
